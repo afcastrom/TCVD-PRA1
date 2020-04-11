@@ -12,10 +12,17 @@ Los paramétros de entrada serán los siguientes:
 
 Se necesita instalar las bibliotecas siguientes:
 
-.import os
-.import csv
+import os
+
+import csv
+
 import argparse
-from bs4 import BeautifulSoup 
+
+from bs4 import BeautifulSoup
+
 import requests
+
 import sys
+
 from datetime import datetime
+
