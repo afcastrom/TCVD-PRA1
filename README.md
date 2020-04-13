@@ -36,7 +36,7 @@ Se muestra une ejemplo de llamada, informando los datos obligatorios:
 ## Extración a fichero
 
 Se genera un fichero de salida en formato .csv con los siguientes datos:
-    Fecha
+    - Fecha
     Modelo
     Versión
     Precio
