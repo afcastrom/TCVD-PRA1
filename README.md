@@ -2,7 +2,8 @@
 
 ## Descripcion script
 
-Permite extraer la información de coches en venta de una web de segunda mano, con el fin de poder aportar información a un posible vendedor. 
+Permite extraer la información de coches de particulares en venta, en una web de segunda mano , con el fin de poder aportar información a un posible vendedor. 
+
 Los paramétros de entrada serán los siguientes:
 
 1. Marca: Marca del coche a buscar (Obligatorio)
@@ -35,7 +36,7 @@ Se muestra une ejemplo de llamada, informando los datos obligatorios:
 ## Extración a fichero
 
 Se genera un fichero de salida en formato .csv con los siguientes datos:
-
+    Fecha
     Modelo
     Versión
     Precio
@@ -43,6 +44,8 @@ Se genera un fichero de salida en formato .csv con los siguientes datos:
     Año
     Motor
     Tipo
+    Ciudad
    
-   
+## Integrantes   
+   La práctica ha sido realizada por Toni Castro y Julia Soler.
    
