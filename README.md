@@ -2,7 +2,7 @@
 
 ## Descripcion script
 
-Permite extraer la información de coches de particulares en venta, en una web de segunda mano , con el fin de poder aportar información a un posible vendedor. 
+Permite extraer la información de coches en venta de particulares, en una web de segunda mano , con el fin de poder aportar información a un posible vendedor. 
 
 Los paramétros de entrada serán los siguientes:
 
@@ -29,7 +29,7 @@ La ejecución del script se realizará de la siguiente forma:
 
     python foodPriceScraper.py Marca Modelo inicio fin version
     
-Se muestra une ejemplo de llamada, informando los datos obligatorios:
+Se muestra ejemplos de llamadas:
 
     python foodpricescraper.py BMW i3
     python foodpricescraper.py AUDI A3 2015 2015
