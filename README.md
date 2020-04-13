@@ -27,23 +27,26 @@ El desarrollo del script se ha realizado en phyton y se necesita instalar las bi
 
 La ejecución del script se realizará de la siguiente forma:
 
-    python foodPriceScraper.py Mara Modelo inicio fin version
+    python foodPriceScraper.py Marca Modelo inicio fin version
     
 Se muestra une ejemplo de llamada, informando los datos obligatorios:
 
-    python foodPriceScraper.py BMW i3
+    python foodpricescraper.py BMW i3
+    python foodpricescraper.py AUDI A3 2015 2015
+    
     
 ## Extración a fichero
 
 Se genera un fichero de salida en formato .csv con los siguientes datos:
-    - Fecha
+    Fecha
     Modelo
     Versión
     Precio
     Kilometraje
-    Año
-    Motor
-    Tipo
+    Mes/Año
+    Potencia
+    Cambio
+    Combustible
     Ciudad
    
 ## Integrantes   
