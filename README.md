@@ -47,5 +47,5 @@ Se genera un fichero de salida en formato .csv con los siguientes datos:
     Ciudad
    
 ## Integrantes   
-   La práctica ha sido realizada por Toni Castro y Julia Soler.
+   La práctica ha sido realizada por Julia Soler (jsolerni@uoc.edu)  & Antonio Castro (acastrom@uoc.edu).
    
